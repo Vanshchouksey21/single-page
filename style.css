@@ -44,8 +44,8 @@
     width: 100%;
     height: 100vh;
     border: 3px solid rgb(0, 0, 0);
+    
 
-    background-color: steelblue;
 }
 #footer{
     width: 100%;
@@ -57,5 +57,9 @@
     text-align: end;
     margin: 2px;
     color: #000;
+    
+}
+#main{
+    background: url(/img/DALL·E\ 2024-11-14\ 11.43.18\ -\ A\ high-resolution\ background\ image\ for\ a\ single-page\ website\ featuring\ a\ mountain\ range\ at\ dawn\ with\ low-hanging\ mist.\ The\ scene\ has\ soft\,\ natural\ col.webp);
     
 }
