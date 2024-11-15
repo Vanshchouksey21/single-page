@@ -106,10 +106,28 @@ section h1 {
    padding: 1px;
   
 }
-/* .select {
-    border: 2px solid gray;
-    display: flex ;
+.category{
+   
+    display: flex;
     justify-content: space-between;
     align-items: center;
+    position: absolute;
+     gap: 30px;
+    background: white;
+    top: 75vh;
+    left: 32%;
+    background-color: white;   
+    padding-left: 80px ;
+    padding-right: 80px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 0px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
 
-} */
+.category div p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
