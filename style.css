@@ -82,24 +82,34 @@ section h1 {
     justify-content: center;
     align-items: center;
     text-align: center; 
-    padding: 180px; 
+    padding: 50px; 
     padding-bottom: 0px;
     font-size: xx-large;
     font-weight: bolder;
     color: rgba(0, 0, 0, 0.803);
 }
-section h4{
+/* section h4{
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center; 
     font-size: large;
     padding: 0px;
-}
-button{
-    display: inline-block;
+} */
+#Home button{
+   margin-left: 45%;
+   margin-top: 40vh;
     width: 230px;
     height: 60px;
-   
+    color: violet;
+   background-color: blue;
+   padding: 1px;
   
 }
+/* .select {
+    border: 2px solid gray;
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+
+} */
